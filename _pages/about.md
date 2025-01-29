@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Software Development Engineer at Microsoft Research Asia, focusing on **enhancing large language model (LLM) reasoning capabilities**. My current work includes test-time scaling method (`rStar`), along with ongoing efforts in **training-based methods** and reinforcement learning from human feedback (**RLHF**).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, my research centered on efficient and scalable AI systems for hardware-aware neural architectures. I worked on neural architecture search (NAS) with projects like `ElasticViT`, `SpaceEvo`, and `LitePred`, as well as structured pruning techniques such as `Compresso`.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before transitioning to AI systems, my early research during my M.S. at `Fudan University` focused on `medical imaging`. I developed foundational frameworks for segmentation, registration, and neurological disease analysis, contributing to early diagnosis of Alzheimer’s and Parkinson’s disease.
