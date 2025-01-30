@@ -19,4 +19,4 @@ I am a Research Software Development Engineer at Microsoft Research Asia, focusi
 
 Previously, my research centered on efficient and scalable AI systems for hardware-aware neural architectures. I worked on neural architecture search (NAS) with projects like `ElasticViT`, `SpaceEvo`, and `LitePred`, as well as structured pruning techniques such as `Compresso`.
 
-Before transitioning to AI systems, my early research during my M.S. at `Fudan University` focused on `medical imaging`. I developed foundational frameworks for segmentation, registration, and neurological disease analysis, contributing to early diagnosis of Alzheimer’s and Parkinson’s disease.
+Before transitioning to AI systems, my early research during my M.S. at **Fudan University** focused on **medical imaging**. I developed foundational frameworks for segmentation, registration, and neurological disease analysis, contributing to early diagnosis of Alzheimer’s and Parkinson’s disease.
